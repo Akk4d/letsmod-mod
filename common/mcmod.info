@@ -1,0 +1,20 @@
+[
+{
+  "modid": "LMM",
+  "name": "LetsMod Mod",
+  "description": "LetsMod Mod Tutorial from Pahimar",
+  "version": "0.0.1",
+  "url": "https://github.com/Akk4d/letsmod-mod",
+  "updateUrl": "",
+  "authorList": [
+    "Akk4d"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
